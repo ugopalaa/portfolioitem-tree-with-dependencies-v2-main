@@ -1,0 +1,46 @@
+.title {
+    font-family: ProximaNova;
+    font-weight: bolder;
+    padding: 5px;
+    font-size: 24px;
+}
+.subtitle {
+    font-family: ProximaNova;
+    font-weight: bold;
+    font-size: 18px;
+    padding: 5px;
+    
+}
+.tableheadercell {
+    font-weight: bold;
+    border: 2px solid black;
+    background-color: #005EB8;
+    color:white;
+    padding: 5px;
+    width: 50%;
+    font-size: 14px;
+    font-weight: bolder;
+}
+.tablebodycell {
+    font-family: ProximaNova;
+    padding: 5px;
+    font-size: 14px;
+}
+
+.presentationtable {
+    font-family: ProximaNova;
+    table-layout: fixed;
+    width: 95%;
+    margin: 10px;
+    border: 2px solid black;
+    border-collapse: collapse;
+  }
+
+  .left {
+      border-right-color: #999;
+      border-right: 1px solid #CCC;
+  }
+  .right {
+    border-left-color: #999;
+    border-left: 1px solid #CCC;
+  }
